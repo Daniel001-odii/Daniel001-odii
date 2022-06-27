@@ -7,7 +7,7 @@
 
 
 <p align="center">🔭 I’m currently working on <a href="http://projshelf.herokuapp.com">Project Shelf</a><br/>
-🌱 I’m currently freelancing on <a href="https://www.upwork.com/freelancers/~01beab0c0a35e434b4">[**Upwork.com**]</a><br/>
+🌱 I’m currently freelancing on <a href="https://www.upwork.com/freelancers/~01beab0c0a35e434b4">Upwork.com</a><br/>
 💬 Ask me about **Javascript, Python, Graphics Design, Life**<br/>
 ⚡ Fun fact: **I built a 2d Game using vanilla Js as one of my beginners project :)**
 </p>
