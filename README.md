@@ -29,6 +29,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel001-odii&show_icons=true&locale=en&layout=compact" alt="daniel001-odii" /></p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel001-odii&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel001-odii&theme=dark)](https://git.io/streak-stats)
 
 
