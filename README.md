@@ -17,12 +17,6 @@
 <a href="https://wa.me/+2348156074667?text=Hey Danny i visited your github profile and will love to connect!" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt="daniel@whatsapp" height="30" width="40" /></a>
 <a href="https://twitter.com/odiidanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odiidanny" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/odii-daniel-2397b51bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/odii-daniel-2397b51bb/" height="30" width="40" /></a>
-<br/><br/>
-
-<h2 align="center">My Stats!</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel001-odii&show_icons=true&locale=en&layout=compact" alt="daniel001-odii" /></p>
-
-
 
 
 <br/><br/>
@@ -31,6 +25,10 @@
 </h3>
 
 
+<h2 align="center">My Stats!</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel001-odii&show_icons=true&locale=en&layout=compact" alt="daniel001-odii" /></p>
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel001-odii&theme=light)](https://git.io/streak-stats)
 
 
