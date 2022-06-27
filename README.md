@@ -17,6 +17,7 @@
 <a href="https://wa.me/+2348156074667?text=Hey Danny i visited your github profile and will love to connect!" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt="daniel@whatsapp" height="30" width="40" /></a>
 <a href="https://twitter.com/odiidanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odiidanny" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/odii-daniel-2397b51bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/odii-daniel-2397b51bb/" height="30" width="40" /></a>
+<!--<a href="https://linkedin.com/in/https://www.linkedin.com/in/odii-daniel-2397b51bb/" target="blank"><img align="center" src="https://png.monster/wp-content/uploads/2020/11/gmail-logo-2020-01-4d7e53f1.png" alt="https://www.linkedin.com/in/odii-daniel-2397b51bb/" height="60" width="80" /></a>-->
 
 
 <br/><br/>
