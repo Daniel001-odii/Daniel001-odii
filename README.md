@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Odii Daniel (Danny)</h1>
-<h3 align="center">Unpaid Javascript Dev that console.logs everything :)</h3>
+<p align="center">Unpaid Javascript Dev that console.logs everything :)</p>
+
+
 
 <p align="center"> <a href="https://twitter.com/odiidanny" target="blank"><img src="https://img.shields.io/twitter/follow/odiidanny?logo=twitter&style=for-the-badge" alt="odiidanny" /></a> </p>
 
 
-- 🔭 I’m currently working on [Project Shelf](http://projshelf.herokuapp.com)
-
-- 🌱 I’m currently freelancing on [**Upwork.com**](https://www.upwork.com/freelancers/~01beab0c0a35e434b4)
-
-- 💬 Ask me about **Javascript, Python, Graphics Design, Life**
-
-- 📫 contact me here: **+2348156074667 | xenithheight@gmail.com**
-
-- ⚡ Fun fact: **I built a 2d Game using vanilla Js as one of my beginners project :)**
+<p align="center">🔭 I’m currently working on <a href="http://projshelf.herokuapp.com">Project Shelf</a><br/>
+🌱 I’m currently freelancing on <a href="https://www.upwork.com/freelancers/~01beab0c0a35e434b4">[**Upwork.com**]</a><br/>
+💬 Ask me about **Javascript, Python, Graphics Design, Life**<br/>
+⚡ Fun fact: **I built a 2d Game using vanilla Js as one of my beginners project :)**
 </p>
 
 <h3 align="center">- Connect with me -</h3>
