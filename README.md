@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://twitter.com/odiidanny" target="blank"><img src="https://img.shields.io/twitter/follow/odiidanny?logo=twitter&style=for-the-badge" alt="odiidanny" /></a> </p>
 
-
-🌱 currently a top rasted freelancer on <a href="https://www.upwork.com/freelancers/~01beab0c0a35e434b4">Upwork.com</a><br/>
+<p align="center">
+🌱 currently a top rated freelancer on <a href="https://www.upwork.com/freelancers/~01beab0c0a35e434b4">Upwork.com</a><br/>
 💬 Ask me about **Javascript, Python, Graphics Design, coding**<br/>
 ⚡ Fun fact: **I built a 2d Game using vanilla Js as one of my beginners project :)**
 </p>
