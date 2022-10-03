@@ -6,9 +6,8 @@
 <p align="center"> <a href="https://twitter.com/odiidanny" target="blank"><img src="https://img.shields.io/twitter/follow/odiidanny?logo=twitter&style=for-the-badge" alt="odiidanny" /></a> </p>
 
 
-<p align="center">🔭 I’m currently working on <a href="http://projshelf.herokuapp.com">Project Shelf</a><br/>
-🌱 I’m currently freelancing on <a href="https://www.upwork.com/freelancers/~01beab0c0a35e434b4">Upwork.com</a><br/>
-💬 Ask me about **Javascript, Python, Graphics Design, Life**<br/>
+🌱 currently a top rasted freelancer on <a href="https://www.upwork.com/freelancers/~01beab0c0a35e434b4">Upwork.com</a><br/>
+💬 Ask me about **Javascript, Python, Graphics Design, coding**<br/>
 ⚡ Fun fact: **I built a 2d Game using vanilla Js as one of my beginners project :)**
 </p>
 
@@ -30,6 +29,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel001-odii&show_icons=true&locale=en&layout=compact" alt="daniel001-odii" /></p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel001-odii&theme=dark)](https://git.io/streak-stats)
+
 
 
