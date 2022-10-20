@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Odii Daniel (Danny)</h1>
-<p align="center">Unpaid Javascript Dev that console.logs everything :)</p>
+<p align="center">Javascript, python Django and everything thats has to do with the web :)</p>
 
 
 
@@ -7,7 +7,7 @@
 
 <p align="center">
 🌱 currently a top rated freelancer on <a href="https://www.upwork.com/freelancers/~01beab0c0a35e434b4">Upwork.com</a><br/>
-💬 Ask me about **Javascript, Python, Graphics Design, coding**<br/>
+💬 Ask me about **Javascript, Python, Graphics Design, mobile apps**<br/>
 ⚡ Fun fact: **I built a 2d Game using vanilla Js as one of my beginners project :)**
 </p>
 
