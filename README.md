@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Odii Daniel (Danny)</h1>
-<p align="center">Javascript, python Django and everything thats has to do with the web :)</p>
+<h1 align="center">Hi 👋, I'm Daniel Odii (Dannie)</h1>
+<p align="center">Building everything javascript & AI:)</p>
 
 
 
