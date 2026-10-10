@@ -21,7 +21,7 @@
 
 I build software at the intersection of **backend engineering, applied AI, and product development**. My work spans APIs, data models, third-party integrations, AI-powered workflows, production monitoring, and shipping features that solve real user problems.
 
-I’m currently a **Product Engineer at Famasi Africa**, working on health-tech software and AI integrations. Outside that role, I build products with **NeedleX** and take on applied AI and full-stack engineering work.
+I’m currently a **Product Engineer at Famasi Africa**, working on health-tech software and AI integrations. Outside that role, I build products with **NeedleAfrica** and take on applied AI and full-stack engineering work.
 
 I care about the parts that make software dependable after launch: clear interfaces, useful observability, thoughtful failure handling, maintainable code, and feedback from real users.
 
@@ -54,7 +54,7 @@ I care about the parts that make software dependable after launch: clear interfa
 
 ## What I’m building
 
-### NeedleX
+### NeedleAfrica
 
 A fashion-business platform built around the day-to-day work of fashion designers, with tools for business management and a client-facing experience for discovering designers and following orders.
 
@@ -108,10 +108,6 @@ Second Class Upper Division
 I’m interested in backend systems, applied AI, developer productivity, cloud infrastructure, and products where engineering work can be tied to clear user or business outcomes.
 
 **LinkedIn:** [Daniel Odii](https://www.linkedin.com/in/daniel-odii-2397b51bb/)  
-**Product:** [NeedleX Client](https://client.needleafrica.com)
+**Product:** [NeedleAfrica](https://client.needleafrica.com)
 
 ---
-
-<p align="center">
-  <sub>Built with care, useful systems over demos, and a bias toward measurable results.</sub>
-</p>
