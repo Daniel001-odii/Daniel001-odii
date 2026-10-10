@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Daniel Odii | Software Engineer working across backend systems, applied AI, and product engineering" />
+  <img src="https://raw.githubusercontent.com/Daniel001-odii/Daniel001-odii/e8a285f516924e5408cde3e978b62183a940e0a4/profile-banner.svg" width="100%" alt="Daniel Odii | Software Engineer working across backend systems, applied AI, and product engineering" />
 </p>
 
 <p align="center">
